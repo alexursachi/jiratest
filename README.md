@@ -1,6 +1,3 @@
 # jiratest
 
 
-
-
-JIR-12
